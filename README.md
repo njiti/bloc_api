@@ -1,16 +1,14 @@
-# bloc_api
+# Spunacular
 
-A new Flutter project.
+An app that uses BloC status to call from spunacular api. Displaying Images and foos titles from the API.
 
-## Getting Started
+## Screen Shots
 
-This project is a starting point for a Flutter application.
+<html>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  <body>
+  <div class="grid-item">
+    <img src ="https://github.com/njiti/bloc_api/blob/master/image/bloc.jpeg?raw=true" width="200" height="500"</img>
+  </div>
+  </body>
+</html>
